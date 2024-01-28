@@ -42,8 +42,8 @@
 
 ## 联系作者
 
-- GitHub: [https://github.com/cjl2024](github)
-- Bilibili: [https://space.bilibili.com/1582926142](bilibili)
+- GitHub: [github](https://github.com/cjl2024)
+- Bilibili: [bilibili](https://space.bilibili.com/1582926142)
 
 
 
