@@ -25,13 +25,12 @@
 ```
 
 ### 二.使用releases包运行
-1. **下载releases包**
 
-  1.1 **打开https://github.com/cjl2024/iconvert-windows/releases/ 选择合适的版本下载**
+  2.1 **打开https://github.com/cjl2024/iconvert-windows/releases/ 选择合适的版本下载**
 
-  1.2 **双击运行安装程序**
+  2.2 **双击运行安装程序**
 
-  1.3 **等待安装完成**
+  2.3 **等待安装完成**
 
 
 
