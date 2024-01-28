@@ -1,3 +1,36 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f894edfd5d7668ac862270b9c68ab11986f09eb2d4ffc735de9a9304db0887af
-size 865
+# 文件转换工具
+
+这是一个基于 Tkinter 和 FFmpeg 的文件转换工具，可以将支持的文件格式转换为其他格式。项目的初衷是为了提供一个简单易用的界面，方便用户进行文件格式的转换操作。
+
+## 功能特点
+- 使用Tkinter给FFmpeg提供一个操作界面，便于转换操作
+- 也使用Tkinter和FFplay实现了一个较为简单的音视频播放功能
+
+## 快速开始
+1. **仓库到本地**
+```bash
+	git clone https://github.com/cjl2024/iconvert-windows.git
+```
+
+2. **进入项目目录**
+```bash
+	cd iconvert-windows
+```
+3. **运行应用**
+```bash
+	python main.py
+```
+
+## 关于
+- 软件基于ffmpeg6.1开发 下载:https://www.gyan.dev/ffmpeg/builds/
+- 软件使用python3.12开发 下载:https://www.python.org/downloads/release/python-3120/
+
+
+## 联系作者
+
+- GitHub: [https://github.com/cjl2024](github)
+- Bilibili: [https://space.bilibili.com/1582926142](bilibili)
+
+
+
+# 																	<font color=red>春节快乐</font>
